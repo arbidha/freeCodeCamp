@@ -9,6 +9,7 @@ You can earn each certification by completing its 5 final projects.
 ### Completed challege
 1.  Responsive Web Design Certification (300 hours)
     a.  Basic HTML and HTML5  
+    b.  Basic CSS
 2.  Javascript Algorithms And Data Structures Certification (300 hours)
 
 
